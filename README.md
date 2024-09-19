@@ -1,4 +1,7 @@
 # pytest-databricks
+
+> **Use a more maintained [`databricks-labs-pytester` plugin](https://github.com/databrickslabs/pytester) for an extensive fixture set.**
+
 Pytest plugin for testing Databricks notebooks
 
 To help you getting started, I have created a [Getting Started](docs/getting-started.md) page.
